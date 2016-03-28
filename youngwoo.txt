@@ -1,1 +1,4 @@
 java programming
+cd - change directory
+mkdir - make directory
+git branch youngwoo - creates a new youngwoo branch
